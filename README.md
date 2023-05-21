@@ -6,8 +6,8 @@ that cost so many innocent lives every single day. While America should work har
 
 This project is to visualize the U.S. firearm mortality between 2018 and 2021 to uncover causes of gun deaths by age, race, and gender. It is also to visualize the association between U.S. county poverty rates and firearm mortality, particularly gun homicides & suicides.
 
-Link to my project site: <br>
-My code repo:
+Link to my project site: https://klarakang.github.io/DATA780Final/ <br>
+My code repo:https://github.com/KlaraKang/DATA780Final
 
 ## Data Source:
 
@@ -24,5 +24,3 @@ My code repo:
 3. The older age groups have higher gun-suicide rates than gun-homicide rates.
 4. Black males aged between 15 and 34 years old are the most vulnerable to gun homicide, while White males aged between 55 and 64 years old are the most vulnerable to gun suicide.
 
-## Graphics:
-1. Line Chart
