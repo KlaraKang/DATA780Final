@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>donut chart-KyoungKang</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+  </head>
+  <body> 
+    <main data-router-wrapper>
+      <section data-router-view="pie">   
+        <h4>Leading Causes of Gun Deaths by Age Groups</h4>       
+        <ul class="dropdowns">
+          <h5 class="two_dropdowns">  
+          <li>
+            <label for="dropdown1"> Select Age Group: </label>
+            <select id="dropdown1" name="dropdown1"></select>
+          </li>
+          <li>
+            <label for="dropdown2"> Select Another Age Group: </label>
+            <select id="dropdown2" name="dropdown2"></select>
+          </li>
+          </h5>
+        </ul>
+        
+        <div id="chart" class="chart-container"> 
+        <script src="./pie.js"></script>
+        </div>
+    
+    </section>
+    </main>
+   
+    <div style="text-align:right">
+      <button onclick="transitionToPage('./sun.html')"> Next &raquo; </button>
+    </div> 
+  </body>
+
+</html>

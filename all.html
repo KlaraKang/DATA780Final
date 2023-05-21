@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">    
+    <title>Interactive Viz - Main - KyoungKang</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro">    
+  </head>
+  <body>
+    <h1>2018-2021 U.S. Firearm Mortality</h1>
+    <div style="padding: 50px 100px 10px">
+      <p id="message" style="font-size: 1em;"> 
+        This country is suffering from perpetual gun violences, mass shootings, and gun suicides. 
+        The nation's ongoing debate over gun controls versus gun ownership rights are ugly conflicts 
+        that cost so many innocent lives every single day. While America should work hard to completely 
+        abolish its pervasive gun culture deeply rooted in Colonialism, its strategies for reducing gun 
+        deaths must be age, gender, race, and community specific.<br><br>
+        This project is to visualize the U.S. firearm mortality between 2018 and 2021 to uncover causes 
+        of gun deaths by age, race, and gender. It is also to visualize the association between 
+        U.S. county poverty rates and firearm mortality, particularly gun homicides & suicides.
+      </p>    
+    </div>
+    <div style="overflow-x:auto;">
+    <table>
+      <tr> 
+        <td>
+          <img src="./images/lineChart.jpg" type="button" onclick="transitionToPage('./line.html')">
+        </td>
+        <td>
+          <p class="table" type="button" onclick="transitionToPage('./line.html')"> 
+            <a>4 Years of Gun-Related Deaths by Causes: </a><br><br>
+            Suicide (57.9%) and Assault (40.1%) were the foremost causes of gun-realted deaths. 
+            170,974 people died from gun-related incidents between January, 2018 and December, 2021. 
+            That's an average of 117 gun deaths per day. Click to view the chart.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="table" type="button" onclick="transitionToPage('./bar.html')">
+            <a>Yearly Gun Deaths by Age Groups: </a><br><br>
+            The young adults, ages between 15 and 34, had the highest gun-related deaths. 
+            They were 42.2% of all gun deaths between 2018 and 2021.
+            Click to view the chart.</p>
+        </td>
+        <td>
+          <img src="./images/barChart3.jpg" type="button" onclick="transitionToPage('./bar.html')"></a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="./images/donutChart.jpg" type="button" onclick="transitionToPage('./pie.html')"></a>  
+        </td>
+        <td>
+          <p class="table" type="button" onclick="transitionToPage('./pie.html')"> 
+            <a>Leading Causes of Gun Deaths by Age Groups: </a><br><br>
+            While gun suicides and gun homicides were the two leading causes of gun-related deaths, 
+            there was large disparities between the age groups in terms of the gun-suicide rates and gun-homicide rates.
+            Gun homicides were the leading causes of gun deaths in younger age groups, 
+            whereas suicides were the main causes of gun deaths in older age groups.             
+            Click to view the chart.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="table" type="button" onclick="transitionToPage('./sun.html')">
+            <a>Gun Death Data by Demographic Profiles: </a><br><br>
+            Black Males, ages between 15 and 34 years old, were the most vulnerable to gun homicide.
+            White males, ages from 25-34 and 55-64 years old were the most vulnerable to gun suicide.
+            Click to view the chart.</p>
+        </td>
+        <td>
+          <img src="./images/sunburst.jpg" type="button" onclick="transitionToPage('./sun.html')"></button>></a>
+        </td>
+      </tr>  
+      <tr>
+        <td>
+          <img src="./images/dotPlot2.jpg" type="button" onclick="transitionToPage('./dot.html')"></a>
+        </td>
+        <td>
+          <p class="table" type="button" onclick="transitionToPage('./dot.html')">
+            <a>Gun Deaths and Poverty Rates: </a><br><br>
+            The U.S. counties with high poverty rates had more gun homicides, while the counties with low poverty rates had more gun suicide incidents.            
+            Click to view the chart.</p>
+        </td>
+      </tr>       
+    </table>
+    </div>    
+    <footer>
+      <p>Data Sources: <br>
+        1. The Center for Disease Control and Prevention, National Center for Health Statistics
+        <a href="https://wonder.cdc.gov/mcd.html" target="_blank"> Mortality Data</a><br>       
+        2. The U.S. Department of Commerce, Bureau of the Census, Small Area Income and Poverty Estimates (SAIPE) Program. <br>
+        Historical Dataset of the U.S. poverty rate by state and county:
+        <a href="https://www2.census.gov/programs-surveys/saipe/datasets/" target="_blank">https://www2.census.gov/programs-surveys/saipe/datasets/</a>
+      </p>
+    </footer>        
+  
+    <script>
+      // EventListener for Page Transition Effecct
+      window.transitionToPage = function(href) {
+        document.querySelector('body').style.opacity = 0
+        setTimeout(function() { 
+            window.location.href = href
+        }, 500)
+      }
+  
+      document.addEventListener('DOMContentLoaded', function(event) {
+        document.querySelector('body').style.opacity = 1
+      })
+    </script>
+
+  </body>
+</html>

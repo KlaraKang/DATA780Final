@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>sunburst-KyoungKang</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/d3-collection.v1.min.js"></script>
+  </head>
+  <body>
+    <main data-router-wrapper>
+      <section data-router-view="sun"> 
+        <h4>Gun Death Data by Demographic Profiles</h4>
+        <div id="container"> 
+          <p>To view the data, move your mouse pointer over a segment of the chart. </p>  
+          <script src="./sun.js"></script>
+        </div> 
+      </section>
+    </main>
+
+    <div style="text-align:right">
+      <button onclick="transitionToPage('./dot.html')"> Next &raquo; </button>
+    </div>
+  </body>
+</html>
+

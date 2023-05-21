@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+    <title>line chart-KyoungKang</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+  </head>
+  <body>
+    <main data-router-wrapper>
+      <section data-router-view="Total">
+        <h4>4 Years of Gun-Related Deaths by Causes</h4> 
+        <ul class="stats">
+          <h3 class="stats_line">                       
+            <li style="color:#58FAF4"> Gun-Suicide <br> 99,128 (58%) </li>
+            <li style="color:red"> Gun-Assault <br> 68,825 (40.25%)</li>
+            <li style="color:orange"> Gun-Accident <br> 1,730 (1%)</li>
+            <li style="color:gray"> Unspecified <br> 1,291 (0.75%) </li>
+          </h3>      
+        </ul>
+        <div id="container"><script src="./line.js"></script></div> 
+      </section>
+    </main>
+    
+    <div id="buttons" style="text-align: right;">
+      <button onclick="transitionToPage('./bar.html')"> Next &raquo; </button>
+    </div>
+  </body>
+</html>

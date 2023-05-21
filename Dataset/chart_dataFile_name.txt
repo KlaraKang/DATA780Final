@@ -1,0 +1,21 @@
+Visualization
+1. Monthly firearm mortality toll by cause of death, from Jan. 2018 to Dec. 2021
+	html_name: line.html
+	CSV_file:  MonthlyByIntent.csv
+
+2. Firearm mortality by ten-year age groups and cause of death, from 2018 to 2021
+	html_name: bar.html
+	CSV_file:  AgeG.csv
+
+	html_name: donut.html
+	CSV_file:  AgeIntent.csv
+
+3. Firearm mortality by gender, ten-year age groups, six race groups, and intents
+ (acident, assault, or suicide) per year, from 2018 to 2021
+	html_name: scatter.html
+	CSV_file:  PovertyDeath.csv
+
+4. Firearm mortality and poverty rates by US county, from 2018 to 2021
+	html_name: sunburst.html
+	CSV_file:  GIRA.csv
+

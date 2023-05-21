@@ -1,0 +1,849 @@
+Year,Gender,Age,Race,Intent,Deaths,Firearm_Type,Cause
+2018,Male,15-24 years,Black or African American,Accident,12,Handgun,Handgun discharge
+2018,Male,15-24 years,White,Accident,18,Handgun,Handgun discharge
+2019,Male,15-24 years,White,Accident,17,Handgun,Handgun discharge
+2019,Male,25-34 years,White,Accident,10,Handgun,Handgun discharge
+2020,Male,15-24 years,White,Accident,15,Handgun,Handgun discharge
+2020,Male,25-34 years,White,Accident,12,Handgun,Handgun discharge
+2021,Male,15-24 years,White,Accident,14,Handgun,Handgun discharge
+2020,Male,35-44 years,White,Accident,10,"Rifle, shotgun and larger","Rifle, shotgun and larger firearm discharge"
+2018,Male,1-4 years,White,Accident,12,unspecified,Discharge from other and unspecified firearms
+2018,Male,15-24 years,Black or African American,Accident,22,unspecified,Discharge from other and unspecified firearms
+2018,Male,15-24 years,White,Accident,49,unspecified,Discharge from other and unspecified firearms
+2018,Male,25-34 years,Black or African American,Accident,23,unspecified,Discharge from other and unspecified firearms
+2018,Male,25-34 years,White,Accident,36,unspecified,Discharge from other and unspecified firearms
+2018,Male,35-44 years,White,Accident,20,unspecified,Discharge from other and unspecified firearms
+2018,Male,45-54 years,White,Accident,29,unspecified,Discharge from other and unspecified firearms
+2018,Male,55-64 years,White,Accident,24,unspecified,Discharge from other and unspecified firearms
+2018,Male,65-74 years,White,Accident,32,unspecified,Discharge from other and unspecified firearms
+2018,Male,75-84 years,White,Accident,12,unspecified,Discharge from other and unspecified firearms
+2019,Male,1-4 years,Black or African American,Accident,12,unspecified,Discharge from other and unspecified firearms
+2019,Male,15-24 years,Black or African American,Accident,27,unspecified,Discharge from other and unspecified firearms
+2019,Male,15-24 years,White,Accident,59,unspecified,Discharge from other and unspecified firearms
+2019,Male,25-34 years,Black or African American,Accident,16,unspecified,Discharge from other and unspecified firearms
+2019,Male,25-34 years,White,Accident,34,unspecified,Discharge from other and unspecified firearms
+2019,Male,35-44 years,Black or African American,Accident,12,unspecified,Discharge from other and unspecified firearms
+2019,Male,35-44 years,White,Accident,25,unspecified,Discharge from other and unspecified firearms
+2019,Male,45-54 years,Black or African American,Accident,10,unspecified,Discharge from other and unspecified firearms
+2019,Male,45-54 years,White,Accident,29,unspecified,Discharge from other and unspecified firearms
+2019,Male,55-64 years,White,Accident,30,unspecified,Discharge from other and unspecified firearms
+2019,Male,65-74 years,White,Accident,23,unspecified,Discharge from other and unspecified firearms
+2019,Male,75-84 years,White,Accident,20,unspecified,Discharge from other and unspecified firearms
+2020,Male,1-4 years,Black or African American,Accident,19,unspecified,Discharge from other and unspecified firearms
+2020,Male,1-4 years,White,Accident,11,unspecified,Discharge from other and unspecified firearms
+2020,Male,5-14 years,White,Accident,26,unspecified,Discharge from other and unspecified firearms
+2020,Male,15-24 years,Black or African American,Accident,30,unspecified,Discharge from other and unspecified firearms
+2020,Male,15-24 years,White,Accident,58,unspecified,Discharge from other and unspecified firearms
+2020,Male,25-34 years,Black or African American,Accident,20,unspecified,Discharge from other and unspecified firearms
+2020,Male,25-34 years,White,Accident,34,unspecified,Discharge from other and unspecified firearms
+2020,Male,35-44 years,Black or African American,Accident,12,unspecified,Discharge from other and unspecified firearms
+2020,Male,35-44 years,White,Accident,31,unspecified,Discharge from other and unspecified firearms
+2020,Male,45-54 years,White,Accident,28,unspecified,Discharge from other and unspecified firearms
+2020,Male,55-64 years,White,Accident,24,unspecified,Discharge from other and unspecified firearms
+2020,Male,65-74 years,White,Accident,31,unspecified,Discharge from other and unspecified firearms
+2020,Male,75-84 years,White,Accident,10,unspecified,Discharge from other and unspecified firearms
+2021,Male,1-4 years,Black or African American,Accident,14,unspecified,Discharge from other and unspecified firearms
+2021,Male,1-4 years,White,Accident,13,unspecified,Discharge from other and unspecified firearms
+2021,Male,5-14 years,Black or African American,Accident,20,unspecified,Discharge from other and unspecified firearms
+2021,Male,5-14 years,White,Accident,17,unspecified,Discharge from other and unspecified firearms
+2021,Male,15-24 years,Black or African American,Accident,29,unspecified,Discharge from other and unspecified firearms
+2021,Male,15-24 years,White,Accident,54,unspecified,Discharge from other and unspecified firearms
+2021,Male,25-34 years,Black or African American,Accident,28,unspecified,Discharge from other and unspecified firearms
+2021,Male,25-34 years,White,Accident,31,unspecified,Discharge from other and unspecified firearms
+2021,Male,35-44 years,Black or African American,Accident,14,unspecified,Discharge from other and unspecified firearms
+2021,Male,35-44 years,White,Accident,32,unspecified,Discharge from other and unspecified firearms
+2021,Male,45-54 years,White,Accident,24,unspecified,Discharge from other and unspecified firearms
+2021,Male,55-64 years,White,Accident,28,unspecified,Discharge from other and unspecified firearms
+2021,Male,65-74 years,White,Accident,36,unspecified,Discharge from other and unspecified firearms
+2021,Male,75-84 years,White,Accident,12,unspecified,Discharge from other and unspecified firearms
+2018,Male,5-14 years,White,Suicide,40,handgun,Intentional self-harm by handgun discharge
+2018,Female,15-24 years,Black or African American,Suicide,10,handgun,Intentional self-harm by handgun discharge
+2018,Female,15-24 years,White,Suicide,79,handgun,Intentional self-harm by handgun discharge
+2018,Male,15-24 years,American Indian or Alaska Native,Suicide,17,handgun,Intentional self-harm by handgun discharge
+2018,Male,15-24 years,Black or African American,Suicide,78,handgun,Intentional self-harm by handgun discharge
+2018,Male,15-24 years,White,Suicide,527,handgun,Intentional self-harm by handgun discharge
+2018,Male,15-24 years,More than one race,Suicide,24,handgun,Intentional self-harm by handgun discharge
+2018,Female,25-34 years,Black or African American,Suicide,10,handgun,Intentional self-harm by handgun discharge
+2018,Female,25-34 years,White,Suicide,119,handgun,Intentional self-harm by handgun discharge
+2018,Male,25-34 years,American Indian or Alaska Native,Suicide,11,handgun,Intentional self-harm by handgun discharge
+2018,Male,25-34 years,Asian,Suicide,25,handgun,Intentional self-harm by handgun discharge
+2018,Male,25-34 years,Black or African American,Suicide,85,handgun,Intentional self-harm by handgun discharge
+2018,Male,25-34 years,White,Suicide,650,handgun,Intentional self-harm by handgun discharge
+2018,Male,25-34 years,More than one race,Suicide,17,handgun,Intentional self-harm by handgun discharge
+2018,Female,35-44 years,White,Suicide,129,handgun,Intentional self-harm by handgun discharge
+2018,Male,35-44 years,Asian,Suicide,10,handgun,Intentional self-harm by handgun discharge
+2018,Male,35-44 years,Black or African American,Suicide,47,handgun,Intentional self-harm by handgun discharge
+2018,Male,35-44 years,White,Suicide,616,handgun,Intentional self-harm by handgun discharge
+2018,Male,35-44 years,More than one race,Suicide,13,handgun,Intentional self-harm by handgun discharge
+2018,Female,45-54 years,White,Suicide,190,handgun,Intentional self-harm by handgun discharge
+2018,Male,45-54 years,Black or African American,Suicide,37,handgun,Intentional self-harm by handgun discharge
+2018,Male,45-54 years,White,Suicide,746,handgun,Intentional self-harm by handgun discharge
+2018,Female,55-64 years,White,Suicide,197,handgun,Intentional self-harm by handgun discharge
+2018,Male,55-64 years,Asian,Suicide,13,handgun,Intentional self-harm by handgun discharge
+2018,Male,55-64 years,Black or African American,Suicide,33,handgun,Intentional self-harm by handgun discharge
+2018,Male,55-64 years,White,Suicide,840,handgun,Intentional self-harm by handgun discharge
+2018,Female,65-74 years,White,Suicide,107,handgun,Intentional self-harm by handgun discharge
+2018,Male,65-74 years,Black or African American,Suicide,11,handgun,Intentional self-harm by handgun discharge
+2018,Male,65-74 years,White,Suicide,753,handgun,Intentional self-harm by handgun discharge
+2018,Female,75-84 years,White,Suicide,39,handgun,Intentional self-harm by handgun discharge
+2018,Male,75-84 years,White,Suicide,574,handgun,Intentional self-harm by handgun discharge
+2018,Female,85+ years,White,Suicide,14,handgun,Intentional self-harm by handgun discharge
+2018,Male,85+ years,White,Suicide,235,handgun,Intentional self-harm by handgun discharge
+2019,Male,5-14 years,White,Suicide,29,handgun,Intentional self-harm by handgun discharge
+2019,Female,15-24 years,Black or African American,Suicide,11,handgun,Intentional self-harm by handgun discharge
+2019,Female,15-24 years,White,Suicide,61,handgun,Intentional self-harm by handgun discharge
+2019,Male,15-24 years,American Indian or Alaska Native,Suicide,14,handgun,Intentional self-harm by handgun discharge
+2019,Male,15-24 years,Asian,Suicide,15,handgun,Intentional self-harm by handgun discharge
+2019,Male,15-24 years,Black or African American,Suicide,73,handgun,Intentional self-harm by handgun discharge
+2019,Male,15-24 years,White,Suicide,472,handgun,Intentional self-harm by handgun discharge
+2019,Male,15-24 years,More than one race,Suicide,30,handgun,Intentional self-harm by handgun discharge
+2019,Female,25-34 years,Black or African American,Suicide,16,handgun,Intentional self-harm by handgun discharge
+2019,Female,25-34 years,White,Suicide,95,handgun,Intentional self-harm by handgun discharge
+2019,Male,25-34 years,American Indian or Alaska Native,Suicide,13,handgun,Intentional self-harm by handgun discharge
+2019,Male,25-34 years,Asian,Suicide,30,handgun,Intentional self-harm by handgun discharge
+2019,Male,25-34 years,Black or African American,Suicide,103,handgun,Intentional self-harm by handgun discharge
+2019,Male,25-34 years,White,Suicide,658,handgun,Intentional self-harm by handgun discharge
+2019,Male,25-34 years,More than one race,Suicide,14,handgun,Intentional self-harm by handgun discharge
+2019,Female,35-44 years,White,Suicide,147,handgun,Intentional self-harm by handgun discharge
+2019,Male,35-44 years,Asian,Suicide,15,handgun,Intentional self-harm by handgun discharge
+2019,Male,35-44 years,Black or African American,Suicide,57,handgun,Intentional self-harm by handgun discharge
+2019,Male,35-44 years,White,Suicide,606,handgun,Intentional self-harm by handgun discharge
+2019,Male,35-44 years,More than one race,Suicide,13,handgun,Intentional self-harm by handgun discharge
+2019,Female,45-54 years,White,Suicide,191,handgun,Intentional self-harm by handgun discharge
+2019,Male,45-54 years,Asian,Suicide,11,handgun,Intentional self-harm by handgun discharge
+2019,Male,45-54 years,Black or African American,Suicide,42,handgun,Intentional self-harm by handgun discharge
+2019,Male,45-54 years,White,Suicide,661,handgun,Intentional self-harm by handgun discharge
+2019,Male,45-54 years,More than one race,Suicide,12,handgun,Intentional self-harm by handgun discharge
+2019,Female,55-64 years,White,Suicide,185,handgun,Intentional self-harm by handgun discharge
+2019,Male,55-64 years,Black or African American,Suicide,24,handgun,Intentional self-harm by handgun discharge
+2019,Male,55-64 years,White,Suicide,880,handgun,Intentional self-harm by handgun discharge
+2019,Female,65-74 years,White,Suicide,99,handgun,Intentional self-harm by handgun discharge
+2019,Male,65-74 years,Black or African American,Suicide,18,handgun,Intentional self-harm by handgun discharge
+2019,Male,65-74 years,White,Suicide,697,handgun,Intentional self-harm by handgun discharge
+2019,Female,75-84 years,White,Suicide,44,handgun,Intentional self-harm by handgun discharge
+2019,Male,75-84 years,White,Suicide,539,handgun,Intentional self-harm by handgun discharge
+2019,Female,85+ years,White,Suicide,14,handgun,Intentional self-harm by handgun discharge
+2019,Male,85+ years,White,Suicide,268,handgun,Intentional self-harm by handgun discharge
+2020,Male,5-14 years,White,Suicide,40,handgun,Intentional self-harm by handgun discharge
+2020,Female,15-24 years,White,Suicide,72,handgun,Intentional self-harm by handgun discharge
+2020,Male,15-24 years,American Indian or Alaska Native,Suicide,21,handgun,Intentional self-harm by handgun discharge
+2020,Male,15-24 years,Asian,Suicide,17,handgun,Intentional self-harm by handgun discharge
+2020,Male,15-24 years,Black or African American,Suicide,93,handgun,Intentional self-harm by handgun discharge
+2020,Male,15-24 years,White,Suicide,532,handgun,Intentional self-harm by handgun discharge
+2020,Male,15-24 years,More than one race,Suicide,21,handgun,Intentional self-harm by handgun discharge
+2020,Female,25-34 years,Black or African American,Suicide,16,handgun,Intentional self-harm by handgun discharge
+2020,Female,25-34 years,White,Suicide,124,handgun,Intentional self-harm by handgun discharge
+2020,Male,25-34 years,American Indian or Alaska Native,Suicide,15,handgun,Intentional self-harm by handgun discharge
+2020,Male,25-34 years,Asian,Suicide,15,handgun,Intentional self-harm by handgun discharge
+2020,Male,25-34 years,Black or African American,Suicide,110,handgun,Intentional self-harm by handgun discharge
+2020,Male,25-34 years,White,Suicide,713,handgun,Intentional self-harm by handgun discharge
+2020,Male,25-34 years,More than one race,Suicide,24,handgun,Intentional self-harm by handgun discharge
+2020,Female,35-44 years,White,Suicide,119,handgun,Intentional self-harm by handgun discharge
+2020,Male,35-44 years,American Indian or Alaska Native,Suicide,10,handgun,Intentional self-harm by handgun discharge
+2020,Male,35-44 years,Asian,Suicide,18,handgun,Intentional self-harm by handgun discharge
+2020,Male,35-44 years,Black or African American,Suicide,63,handgun,Intentional self-harm by handgun discharge
+2020,Male,35-44 years,White,Suicide,654,handgun,Intentional self-harm by handgun discharge
+2020,Male,35-44 years,More than one race,Suicide,16,handgun,Intentional self-harm by handgun discharge
+2020,Female,45-54 years,White,Suicide,154,handgun,Intentional self-harm by handgun discharge
+2020,Male,45-54 years,Asian,Suicide,13,handgun,Intentional self-harm by handgun discharge
+2020,Male,45-54 years,Black or African American,Suicide,34,handgun,Intentional self-harm by handgun discharge
+2020,Male,45-54 years,White,Suicide,654,handgun,Intentional self-harm by handgun discharge
+2020,Female,55-64 years,White,Suicide,169,handgun,Intentional self-harm by handgun discharge
+2020,Male,55-64 years,Asian,Suicide,13,handgun,Intentional self-harm by handgun discharge
+2020,Male,55-64 years,Black or African American,Suicide,30,handgun,Intentional self-harm by handgun discharge
+2020,Male,55-64 years,White,Suicide,791,handgun,Intentional self-harm by handgun discharge
+2020,Female,65-74 years,White,Suicide,113,handgun,Intentional self-harm by handgun discharge
+2020,Male,65-74 years,Black or African American,Suicide,15,handgun,Intentional self-harm by handgun discharge
+2020,Male,65-74 years,White,Suicide,725,handgun,Intentional self-harm by handgun discharge
+2020,Female,75-84 years,White,Suicide,55,handgun,Intentional self-harm by handgun discharge
+2020,Male,75-84 years,White,Suicide,618,handgun,Intentional self-harm by handgun discharge
+2020,Male,85+ years,White,Suicide,281,handgun,Intentional self-harm by handgun discharge
+2021,Male,5-14 years,White,Suicide,32,handgun,Intentional self-harm by handgun discharge
+2021,Female,15-24 years,Black or African American,Suicide,16,handgun,Intentional self-harm by handgun discharge
+2021,Female,15-24 years,White,Suicide,78,handgun,Intentional self-harm by handgun discharge
+2021,Male,15-24 years,American Indian or Alaska Native,Suicide,20,handgun,Intentional self-harm by handgun discharge
+2021,Male,15-24 years,Asian,Suicide,26,handgun,Intentional self-harm by handgun discharge
+2021,Male,15-24 years,Black or African American,Suicide,120,handgun,Intentional self-harm by handgun discharge
+2021,Male,15-24 years,White,Suicide,595,handgun,Intentional self-harm by handgun discharge
+2021,Male,15-24 years,More than one race,Suicide,27,handgun,Intentional self-harm by handgun discharge
+2021,Female,25-34 years,Black or African American,Suicide,21,handgun,Intentional self-harm by handgun discharge
+2021,Female,25-34 years,White,Suicide,123,handgun,Intentional self-harm by handgun discharge
+2021,Male,25-34 years,American Indian or Alaska Native,Suicide,20,handgun,Intentional self-harm by handgun discharge
+2021,Male,25-34 years,Asian,Suicide,35,handgun,Intentional self-harm by handgun discharge
+2021,Male,25-34 years,Black or African American,Suicide,142,handgun,Intentional self-harm by handgun discharge
+2021,Male,25-34 years,White,Suicide,807,handgun,Intentional self-harm by handgun discharge
+2021,Male,25-34 years,More than one race,Suicide,19,handgun,Intentional self-harm by handgun discharge
+2021,Female,35-44 years,Black or African American,Suicide,13,handgun,Intentional self-harm by handgun discharge
+2021,Female,35-44 years,White,Suicide,125,handgun,Intentional self-harm by handgun discharge
+2021,Male,35-44 years,American Indian or Alaska Native,Suicide,13,handgun,Intentional self-harm by handgun discharge
+2021,Male,35-44 years,Asian,Suicide,17,handgun,Intentional self-harm by handgun discharge
+2021,Male,35-44 years,Black or African American,Suicide,71,handgun,Intentional self-harm by handgun discharge
+2021,Male,35-44 years,White,Suicide,679,handgun,Intentional self-harm by handgun discharge
+2021,Male,35-44 years,More than one race,Suicide,14,handgun,Intentional self-harm by handgun discharge
+2021,Female,45-54 years,White,Suicide,176,handgun,Intentional self-harm by handgun discharge
+2021,Male,45-54 years,Asian,Suicide,19,handgun,Intentional self-harm by handgun discharge
+2021,Male,45-54 years,Black or African American,Suicide,46,handgun,Intentional self-harm by handgun discharge
+2021,Male,45-54 years,White,Suicide,713,handgun,Intentional self-harm by handgun discharge
+2021,Female,55-64 years,White,Suicide,174,handgun,Intentional self-harm by handgun discharge
+2021,Male,55-64 years,Black or African American,Suicide,27,handgun,Intentional self-harm by handgun discharge
+2021,Male,55-64 years,White,Suicide,863,handgun,Intentional self-harm by handgun discharge
+2021,Female,65-74 years,White,Suicide,113,handgun,Intentional self-harm by handgun discharge
+2021,Male,65-74 years,Asian,Suicide,14,handgun,Intentional self-harm by handgun discharge
+2021,Male,65-74 years,Black or African American,Suicide,14,handgun,Intentional self-harm by handgun discharge
+2021,Male,65-74 years,White,Suicide,738,handgun,Intentional self-harm by handgun discharge
+2021,Female,75-84 years,White,Suicide,58,handgun,Intentional self-harm by handgun discharge
+2021,Male,75-84 years,White,Suicide,625,handgun,Intentional self-harm by handgun discharge
+2021,Female,85+ years,White,Suicide,11,handgun,Intentional self-harm by handgun discharge
+2021,Male,85+ years,White,Suicide,292,handgun,Intentional self-harm by handgun discharge
+2018,Male,5-14 years,White,Suicide,19,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Female,15-24 years,White,Suicide,29,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Male,15-24 years,Black or African American,Suicide,21,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Male,15-24 years,White,Suicide,357,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Male,15-24 years,More than one race,Suicide,13,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Female,25-34 years,White,Suicide,23,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Male,25-34 years,Black or African American,Suicide,18,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Male,25-34 years,White,Suicide,283,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Female,35-44 years,White,Suicide,24,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Male,35-44 years,Black or African American,Suicide,12,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Male,35-44 years,White,Suicide,283,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Female,45-54 years,White,Suicide,32,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Male,45-54 years,White,Suicide,413,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Female,55-64 years,White,Suicide,33,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Male,55-64 years,White,Suicide,493,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Male,65-74 years,White,Suicide,303,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Male,75-84 years,White,Suicide,196,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Male,85+ years,White,Suicide,74,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Male,5-14 years,White,Suicide,22,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Female,15-24 years,White,Suicide,17,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Male,15-24 years,Asian,Suicide,11,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Male,15-24 years,Black or African American,Suicide,17,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Male,15-24 years,White,Suicide,307,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Male,15-24 years,More than one race,Suicide,10,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Female,25-34 years,White,Suicide,19,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Male,25-34 years,Black or African American,Suicide,16,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Male,25-34 years,White,Suicide,275,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Female,35-44 years,White,Suicide,27,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Male,35-44 years,White,Suicide,303,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Female,45-54 years,White,Suicide,23,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Male,45-54 years,Black or African American,Suicide,15,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Male,45-54 years,White,Suicide,359,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Female,55-64 years,White,Suicide,34,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Male,55-64 years,White,Suicide,468,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Male,65-74 years,White,Suicide,304,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Male,75-84 years,White,Suicide,179,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2019,Male,85+ years,White,Suicide,93,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Male,5-14 years,White,Suicide,16,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Female,15-24 years,White,Suicide,22,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Male,15-24 years,American Indian or Alaska Native,Suicide,14,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Male,15-24 years,Asian,Suicide,13,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Male,15-24 years,Black or African American,Suicide,15,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Male,15-24 years,White,Suicide,295,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Male,15-24 years,More than one race,Suicide,14,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Female,25-34 years,White,Suicide,28,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Male,25-34 years,Black or African American,Suicide,24,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Male,25-34 years,White,Suicide,267,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Female,35-44 years,White,Suicide,28,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Male,35-44 years,Black or African American,Suicide,11,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Male,35-44 years,White,Suicide,263,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Female,45-54 years,White,Suicide,22,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Male,45-54 years,White,Suicide,336,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Female,55-64 years,White,Suicide,17,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Male,55-64 years,White,Suicide,384,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Male,65-74 years,Black or African American,Suicide,10,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Male,65-74 years,White,Suicide,263,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Male,75-84 years,White,Suicide,189,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2020,Male,85+ years,White,Suicide,104,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Male,5-14 years,White,Suicide,19,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Female,15-24 years,White,Suicide,15,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Male,15-24 years,American Indian or Alaska Native,Suicide,17,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Male,15-24 years,Asian,Suicide,14,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Male,15-24 years,Black or African American,Suicide,24,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Male,15-24 years,White,Suicide,336,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Female,25-34 years,White,Suicide,23,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Male,25-34 years,American Indian or Alaska Native,Suicide,15,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Male,25-34 years,Black or African American,Suicide,17,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Male,25-34 years,White,Suicide,254,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Male,25-34 years,More than one race,Suicide,11,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Female,35-44 years,White,Suicide,22,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Male,35-44 years,Black or African American,Suicide,12,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Male,35-44 years,White,Suicide,261,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Female,45-54 years,White,Suicide,11,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Male,45-54 years,White,Suicide,305,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Female,55-64 years,White,Suicide,21,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Male,55-64 years,White,Suicide,382,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Female,65-74 years,White,Suicide,10,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Male,65-74 years,White,Suicide,285,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Male,75-84 years,White,Suicide,188,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2021,Male,85+ years,White,Suicide,91,"Rifle, shotgun and larger","Intentional self-harm by rifle, shotgun and larger firearm discharge"
+2018,Female,5-14 years,White,Suicide,26,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,5-14 years,Black or African American,Suicide,13,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,5-14 years,White,Suicide,67,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Female,15-24 years,Black or African American,Suicide,31,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Female,15-24 years,White,Suicide,167,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,15-24 years,American Indian or Alaska Native,Suicide,22,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,15-24 years,Asian,Suicide,32,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,15-24 years,Black or African American,Suicide,233,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,15-24 years,White,Suicide,1266,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,15-24 years,More than one race,Suicide,33,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Female,25-34 years,Black or African American,Suicide,40,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Female,25-34 years,White,Suicide,277,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,25-34 years,American Indian or Alaska Native,Suicide,25,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,25-34 years,Asian,Suicide,31,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,25-34 years,Black or African American,Suicide,265,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,25-34 years,White,Suicide,1475,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,25-34 years,More than one race,Suicide,22,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Female,35-44 years,Black or African American,Suicide,19,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Female,35-44 years,White,Suicide,313,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,35-44 years,American Indian or Alaska Native,Suicide,11,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,35-44 years,Asian,Suicide,24,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,35-44 years,Black or African American,Suicide,174,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,35-44 years,White,Suicide,1477,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,35-44 years,More than one race,Suicide,10,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Female,45-54 years,Black or African American,Suicide,17,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Female,45-54 years,White,Suicide,419,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,45-54 years,Asian,Suicide,25,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,45-54 years,Black or African American,Suicide,102,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,45-54 years,White,Suicide,1736,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Female,55-64 years,Black or African American,Suicide,16,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Female,55-64 years,White,Suicide,422,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,55-64 years,American Indian or Alaska Native,Suicide,13,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,55-64 years,Asian,Suicide,24,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,55-64 years,Black or African American,Suicide,92,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,55-64 years,White,Suicide,2198,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Female,65-74 years,White,Suicide,251,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,65-74 years,Asian,Suicide,13,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,65-74 years,Black or African American,Suicide,37,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,65-74 years,White,Suicide,1722,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Female,75-84 years,White,Suicide,97,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,75-84 years,Black or African American,Suicide,39,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,75-84 years,White,Suicide,1235,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Female,85+ years,White,Suicide,26,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,85+ years,Black or African American,Suicide,13,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Male,85+ years,White,Suicide,550,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Female,5-14 years,White,Suicide,19,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,5-14 years,White,Suicide,74,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Female,15-24 years,Black or African American,Suicide,18,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Female,15-24 years,White,Suicide,159,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,15-24 years,American Indian or Alaska Native,Suicide,20,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,15-24 years,Asian,Suicide,35,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,15-24 years,Black or African American,Suicide,242,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,15-24 years,White,Suicide,1216,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,15-24 years,More than one race,Suicide,37,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Female,25-34 years,Black or African American,Suicide,38,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Female,25-34 years,White,Suicide,279,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,25-34 years,American Indian or Alaska Native,Suicide,17,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,25-34 years,Asian,Suicide,41,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,25-34 years,Black or African American,Suicide,263,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,25-34 years,White,Suicide,1562,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,25-34 years,More than one race,Suicide,25,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Female,35-44 years,Black or African American,Suicide,23,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Female,35-44 years,White,Suicide,290,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,35-44 years,American Indian or Alaska Native,Suicide,10,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,35-44 years,Asian,Suicide,28,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,35-44 years,Black or African American,Suicide,182,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,35-44 years,White,Suicide,1421,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,35-44 years,More than one race,Suicide,20,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Female,45-54 years,Black or African American,Suicide,22,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Female,45-54 years,White,Suicide,440,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,45-54 years,Asian,Suicide,18,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,45-54 years,Black or African American,Suicide,133,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,45-54 years,White,Suicide,1635,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,45-54 years,More than one race,Suicide,15,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Female,55-64 years,White,Suicide,401,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,55-64 years,Asian,Suicide,27,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,55-64 years,Black or African American,Suicide,89,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,55-64 years,White,Suicide,2091,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,55-64 years,More than one race,Suicide,12,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Female,65-74 years,White,Suicide,248,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,65-74 years,Black or African American,Suicide,61,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,65-74 years,White,Suicide,1655,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Female,75-84 years,White,Suicide,94,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,75-84 years,Black or African American,Suicide,34,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,75-84 years,White,Suicide,1321,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Female,85+ years,White,Suicide,36,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2019,Male,85+ years,White,Suicide,587,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Female,5-14 years,White,Suicide,21,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,5-14 years,Black or African American,Suicide,14,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,5-14 years,White,Suicide,94,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Female,15-24 years,Black or African American,Suicide,35,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Female,15-24 years,White,Suicide,175,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,15-24 years,American Indian or Alaska Native,Suicide,29,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,15-24 years,Asian,Suicide,31,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,15-24 years,Black or African American,Suicide,316,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,15-24 years,White,Suicide,1369,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,15-24 years,More than one race,Suicide,35,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Female,25-34 years,Black or African American,Suicide,42,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Female,25-34 years,White,Suicide,288,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,25-34 years,American Indian or Alaska Native,Suicide,39,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,25-34 years,Asian,Suicide,41,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,25-34 years,Black or African American,Suicide,367,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,25-34 years,White,Suicide,1692,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,25-34 years,More than one race,Suicide,39,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Female,35-44 years,Black or African American,Suicide,33,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Female,35-44 years,White,Suicide,315,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,35-44 years,American Indian or Alaska Native,Suicide,11,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,35-44 years,Asian,Suicide,28,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,35-44 years,Black or African American,Suicide,187,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,35-44 years,White,Suicide,1401,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,35-44 years,More than one race,Suicide,23,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Female,45-54 years,Black or African American,Suicide,15,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Female,45-54 years,White,Suicide,331,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,45-54 years,American Indian or Alaska Native,Suicide,11,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,45-54 years,Asian,Suicide,25,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,45-54 years,Black or African American,Suicide,120,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,45-54 years,White,Suicide,1647,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,45-54 years,More than one race,Suicide,10,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Female,55-64 years,Black or African American,Suicide,12,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Female,55-64 years,White,Suicide,365,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,55-64 years,American Indian or Alaska Native,Suicide,10,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,55-64 years,Asian,Suicide,20,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,55-64 years,Black or African American,Suicide,85,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,55-64 years,White,Suicide,1945,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Female,65-74 years,White,Suicide,235,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,65-74 years,Black or African American,Suicide,51,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,65-74 years,White,Suicide,1650,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Female,75-84 years,White,Suicide,96,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,75-84 years,Black or African American,Suicide,30,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,75-84 years,White,Suicide,1314,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Female,85+ years,White,Suicide,17,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,85+ years,Black or African American,Suicide,11,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2020,Male,85+ years,White,Suicide,593,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Female,5-14 years,Black or African American,Suicide,13,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Female,5-14 years,White,Suicide,28,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,5-14 years,Black or African American,Suicide,12,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,5-14 years,White,Suicide,98,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Female,15-24 years,Black or African American,Suicide,53,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Female,15-24 years,White,Suicide,183,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,15-24 years,American Indian or Alaska Native,Suicide,25,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,15-24 years,Asian,Suicide,47,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,15-24 years,Black or African American,Suicide,383,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,15-24 years,White,Suicide,1515,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,15-24 years,More than one race,Suicide,53,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Female,25-34 years,Asian,Suicide,10,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Female,25-34 years,Black or African American,Suicide,62,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Female,25-34 years,White,Suicide,280,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,25-34 years,American Indian or Alaska Native,Suicide,34,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,25-34 years,Asian,Suicide,43,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,25-34 years,Black or African American,Suicide,416,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,25-34 years,White,Suicide,1817,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,25-34 years,More than one race,Suicide,40,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Female,35-44 years,Black or African American,Suicide,37,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Female,35-44 years,White,Suicide,339,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,35-44 years,American Indian or Alaska Native,Suicide,15,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,35-44 years,Asian,Suicide,30,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,35-44 years,Black or African American,Suicide,258,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,35-44 years,White,Suicide,1673,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,35-44 years,More than one race,Suicide,26,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Female,45-54 years,Black or African American,Suicide,27,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Female,45-54 years,White,Suicide,412,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,45-54 years,Asian,Suicide,23,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,45-54 years,Black or African American,Suicide,136,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,45-54 years,White,Suicide,1784,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,45-54 years,More than one race,Suicide,13,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Female,55-64 years,Black or African American,Suicide,20,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Female,55-64 years,White,Suicide,388,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,55-64 years,Asian,Suicide,12,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,55-64 years,Black or African American,Suicide,92,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,55-64 years,White,Suicide,1953,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Female,65-74 years,White,Suicide,256,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,65-74 years,Black or African American,Suicide,67,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,65-74 years,White,Suicide,1894,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Female,75-84 years,White,Suicide,105,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,75-84 years,Black or African American,Suicide,37,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,75-84 years,White,Suicide,1417,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Female,85+ years,White,Suicide,21,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,85+ years,Black or African American,Suicide,14,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2021,Male,85+ years,White,Suicide,584,unspecified,Intentional self-harm by other and unspecified firearm discharge
+2018,Female,15-24 years,Black or African American,Assault,16,handgun,Assault by handgun discharge
+2018,Female,15-24 years,White,Assault,23,handgun,Assault by handgun discharge
+2018,Male,15-24 years,Black or African American,Assault,119,handgun,Assault by handgun discharge
+2018,Male,15-24 years,White,Assault,103,handgun,Assault by handgun discharge
+2018,Female,25-34 years,Black or African American,Assault,12,handgun,Assault by handgun discharge
+2018,Female,25-34 years,White,Assault,22,handgun,Assault by handgun discharge
+2018,Male,25-34 years,Black or African American,Assault,137,handgun,Assault by handgun discharge
+2018,Male,25-34 years,White,Assault,82,handgun,Assault by handgun discharge
+2018,Female,35-44 years,Black or African American,Assault,15,handgun,Assault by handgun discharge
+2018,Female,35-44 years,White,Assault,27,handgun,Assault by handgun discharge
+2018,Male,35-44 years,Black or African American,Assault,63,handgun,Assault by handgun discharge
+2018,Male,35-44 years,White,Assault,63,handgun,Assault by handgun discharge
+2018,Female,45-54 years,White,Assault,26,handgun,Assault by handgun discharge
+2018,Male,45-54 years,Black or African American,Assault,30,handgun,Assault by handgun discharge
+2018,Male,45-54 years,White,Assault,40,handgun,Assault by handgun discharge
+2018,Female,55-64 years,White,Assault,14,handgun,Assault by handgun discharge
+2018,Male,55-64 years,White,Assault,21,handgun,Assault by handgun discharge
+2018,Female,65-74 years,White,Assault,11,handgun,Assault by handgun discharge
+2018,Male,65-74 years,White,Assault,12,handgun,Assault by handgun discharge
+2019,Female,15-24 years,Black or African American,Assault,17,handgun,Assault by handgun discharge
+2019,Female,15-24 years,White,Assault,19,handgun,Assault by handgun discharge
+2019,Male,15-24 years,Black or African American,Assault,126,handgun,Assault by handgun discharge
+2019,Male,15-24 years,White,Assault,74,handgun,Assault by handgun discharge
+2019,Female,25-34 years,Black or African American,Assault,17,handgun,Assault by handgun discharge
+2019,Female,25-34 years,White,Assault,18,handgun,Assault by handgun discharge
+2019,Male,25-34 years,Black or African American,Assault,131,handgun,Assault by handgun discharge
+2019,Male,25-34 years,White,Assault,100,handgun,Assault by handgun discharge
+2019,Female,35-44 years,Black or African American,Assault,15,handgun,Assault by handgun discharge
+2019,Female,35-44 years,White,Assault,32,handgun,Assault by handgun discharge
+2019,Male,35-44 years,Black or African American,Assault,81,handgun,Assault by handgun discharge
+2019,Male,35-44 years,White,Assault,74,handgun,Assault by handgun discharge
+2019,Female,45-54 years,Black or African American,Assault,11,handgun,Assault by handgun discharge
+2019,Female,45-54 years,White,Assault,23,handgun,Assault by handgun discharge
+2019,Male,45-54 years,Black or African American,Assault,34,handgun,Assault by handgun discharge
+2019,Male,45-54 years,White,Assault,54,handgun,Assault by handgun discharge
+2019,Female,55-64 years,White,Assault,20,handgun,Assault by handgun discharge
+2019,Male,55-64 years,Black or African American,Assault,13,handgun,Assault by handgun discharge
+2019,Male,55-64 years,White,Assault,37,handgun,Assault by handgun discharge
+2019,Female,65-74 years,White,Assault,12,handgun,Assault by handgun discharge
+2019,Male,65-74 years,White,Assault,15,handgun,Assault by handgun discharge
+2019,Female,75-84 years,White,Assault,13,handgun,Assault by handgun discharge
+2020,Male,5-14 years,White,Assault,10,handgun,Assault by handgun discharge
+2020,Female,15-24 years,Black or African American,Assault,16,handgun,Assault by handgun discharge
+2020,Female,15-24 years,White,Assault,21,handgun,Assault by handgun discharge
+2020,Male,15-24 years,Black or African American,Assault,157,handgun,Assault by handgun discharge
+2020,Male,15-24 years,White,Assault,125,handgun,Assault by handgun discharge
+2020,Female,25-34 years,Black or African American,Assault,22,handgun,Assault by handgun discharge
+2020,Female,25-34 years,White,Assault,20,handgun,Assault by handgun discharge
+2020,Male,25-34 years,American Indian or Alaska Native,Assault,12,handgun,Assault by handgun discharge
+2020,Male,25-34 years,Black or African American,Assault,177,handgun,Assault by handgun discharge
+2020,Male,25-34 years,White,Assault,103,handgun,Assault by handgun discharge
+2020,Female,35-44 years,Black or African American,Assault,17,handgun,Assault by handgun discharge
+2020,Female,35-44 years,White,Assault,23,handgun,Assault by handgun discharge
+2020,Male,35-44 years,Black or African American,Assault,88,handgun,Assault by handgun discharge
+2020,Male,35-44 years,White,Assault,106,handgun,Assault by handgun discharge
+2020,Female,45-54 years,White,Assault,24,handgun,Assault by handgun discharge
+2020,Male,45-54 years,Black or African American,Assault,30,handgun,Assault by handgun discharge
+2020,Male,45-54 years,White,Assault,48,handgun,Assault by handgun discharge
+2020,Female,55-64 years,White,Assault,17,handgun,Assault by handgun discharge
+2020,Male,55-64 years,Black or African American,Assault,12,handgun,Assault by handgun discharge
+2020,Male,55-64 years,White,Assault,44,handgun,Assault by handgun discharge
+2020,Female,75-84 years,White,Assault,10,handgun,Assault by handgun discharge
+2021,Female,15-24 years,Black or African American,Assault,21,handgun,Assault by handgun discharge
+2021,Female,15-24 years,White,Assault,16,handgun,Assault by handgun discharge
+2021,Male,15-24 years,Black or African American,Assault,167,handgun,Assault by handgun discharge
+2021,Male,15-24 years,White,Assault,98,handgun,Assault by handgun discharge
+2021,Female,25-34 years,Black or African American,Assault,23,handgun,Assault by handgun discharge
+2021,Female,25-34 years,White,Assault,26,handgun,Assault by handgun discharge
+2021,Male,25-34 years,Black or African American,Assault,160,handgun,Assault by handgun discharge
+2021,Male,25-34 years,White,Assault,112,handgun,Assault by handgun discharge
+2021,Female,35-44 years,White,Assault,31,handgun,Assault by handgun discharge
+2021,Male,35-44 years,Black or African American,Assault,100,handgun,Assault by handgun discharge
+2021,Male,35-44 years,White,Assault,94,handgun,Assault by handgun discharge
+2021,Female,45-54 years,White,Assault,16,handgun,Assault by handgun discharge
+2021,Male,45-54 years,Black or African American,Assault,48,handgun,Assault by handgun discharge
+2021,Male,45-54 years,White,Assault,58,handgun,Assault by handgun discharge
+2021,Female,55-64 years,White,Assault,14,handgun,Assault by handgun discharge
+2021,Male,55-64 years,Black or African American,Assault,16,handgun,Assault by handgun discharge
+2021,Male,55-64 years,White,Assault,31,handgun,Assault by handgun discharge
+2021,Female,65-74 years,White,Assault,12,handgun,Assault by handgun discharge
+2021,Male,65-74 years,White,Assault,15,handgun,Assault by handgun discharge
+2018,Male,15-24 years,Black or African American,Assault,34,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2018,Male,15-24 years,White,Assault,55,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2018,Female,25-34 years,White,Assault,16,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2018,Male,25-34 years,Black or African American,Assault,31,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2018,Male,25-34 years,White,Assault,40,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2018,Female,35-44 years,White,Assault,14,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2018,Male,35-44 years,Black or African American,Assault,16,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2018,Male,35-44 years,White,Assault,51,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2018,Female,45-54 years,White,Assault,18,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2018,Male,45-54 years,White,Assault,35,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2018,Female,55-64 years,White,Assault,16,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2018,Male,55-64 years,White,Assault,28,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2018,Male,65-74 years,White,Assault,11,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2019,Male,15-24 years,Black or African American,Assault,36,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2019,Male,15-24 years,White,Assault,46,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2019,Female,25-34 years,White,Assault,14,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2019,Male,25-34 years,Black or African American,Assault,38,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2019,Male,25-34 years,White,Assault,43,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2019,Female,35-44 years,White,Assault,19,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2019,Male,35-44 years,Black or African American,Assault,13,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2019,Male,35-44 years,White,Assault,42,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2019,Female,45-54 years,White,Assault,16,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2019,Male,45-54 years,Black or African American,Assault,10,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2019,Male,45-54 years,White,Assault,40,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2019,Female,55-64 years,White,Assault,10,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2019,Male,55-64 years,White,Assault,16,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2020,Male,15-24 years,Black or African American,Assault,33,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2020,Male,15-24 years,White,Assault,39,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2020,Female,25-34 years,White,Assault,12,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2020,Male,25-34 years,Black or African American,Assault,29,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2020,Male,25-34 years,White,Assault,47,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2020,Female,35-44 years,White,Assault,19,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2020,Male,35-44 years,Black or African American,Assault,19,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2020,Male,35-44 years,White,Assault,54,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2020,Female,45-54 years,White,Assault,12,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2020,Male,45-54 years,White,Assault,29,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2020,Female,55-64 years,White,Assault,15,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2020,Male,55-64 years,White,Assault,25,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2020,Female,65-74 years,White,Assault,11,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2020,Male,65-74 years,White,Assault,15,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2021,Male,15-24 years,Black or African American,Assault,28,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2021,Male,15-24 years,White,Assault,37,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2021,Female,25-34 years,White,Assault,11,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2021,Male,25-34 years,Black or African American,Assault,36,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2021,Male,25-34 years,White,Assault,54,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2021,Female,35-44 years,White,Assault,15,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2021,Male,35-44 years,Black or African American,Assault,21,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2021,Male,35-44 years,White,Assault,45,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2021,Female,45-54 years,White,Assault,10,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2021,Male,45-54 years,Black or African American,Assault,12,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2021,Male,45-54 years,White,Assault,28,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2021,Female,55-64 years,White,Assault,11,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2021,Male,55-64 years,Black or African American,Assault,10,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2021,Male,55-64 years,White,Assault,31,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2021,Female,65-74 years,White,Assault,12,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2021,Male,65-74 years,White,Assault,12,"Rifle, shotgun and larger","Assault by rifle, shotgun and larger firearm discharge"
+2018,Female,1-4 years,Black or African American,Assault,10,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,1-4 years,Black or African American,Assault,12,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,1-4 years,White,Assault,13,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,5-14 years,Black or African American,Assault,27,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,5-14 years,White,Assault,34,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,5-14 years,Black or African American,Assault,38,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,5-14 years,White,Assault,48,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,15-24 years,Black or African American,Assault,242,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,15-24 years,White,Assault,182,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,15-24 years,More than one race,Assault,16,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,15-24 years,American Indian or Alaska Native,Assault,25,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,15-24 years,Asian,Assault,19,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,15-24 years,Black or African American,Assault,2262,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,15-24 years,Native Hawaiian or Other Pacific Islander,Assault,12,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,15-24 years,White,Assault,891,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,15-24 years,More than one race,Assault,54,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,25-34 years,Black or African American,Assault,280,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,25-34 years,White,Assault,227,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,25-34 years,More than one race,Assault,11,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,25-34 years,American Indian or Alaska Native,Assault,41,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,25-34 years,Asian,Assault,35,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,25-34 years,Black or African American,Assault,2336,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,25-34 years,White,Assault,998,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,25-34 years,More than one race,Assault,35,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,35-44 years,Black or African American,Assault,148,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,35-44 years,White,Assault,200,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,35-44 years,American Indian or Alaska Native,Assault,22,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,35-44 years,Asian,Assault,12,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,35-44 years,Black or African American,Assault,1167,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,35-44 years,White,Assault,716,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,35-44 years,More than one race,Assault,20,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,45-54 years,Black or African American,Assault,81,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,45-54 years,White,Assault,143,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,45-54 years,American Indian or Alaska Native,Assault,14,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,45-54 years,Asian,Assault,20,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,45-54 years,Black or African American,Assault,470,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,45-54 years,White,Assault,460,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,45-54 years,More than one race,Assault,10,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,55-64 years,Black or African American,Assault,47,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,55-64 years,White,Assault,97,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,55-64 years,Asian,Assault,11,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,55-64 years,Black or African American,Assault,262,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,55-64 years,White,Assault,271,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,65-74 years,Black or African American,Assault,26,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,65-74 years,White,Assault,78,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,65-74 years,Black or African American,Assault,62,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,65-74 years,White,Assault,113,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,75-84 years,White,Assault,38,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,75-84 years,Black or African American,Assault,10,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,75-84 years,White,Assault,41,unspecified,Assault by other and unspecified firearm discharge
+2018,Female,85+ years,White,Assault,12,unspecified,Assault by other and unspecified firearm discharge
+2018,Male,85+ years,White,Assault,12,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,1-4 years,Black or African American,Assault,13,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,1-4 years,White,Assault,10,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,5-14 years,Black or African American,Assault,23,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,5-14 years,White,Assault,23,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,5-14 years,Black or African American,Assault,76,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,5-14 years,White,Assault,52,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,15-24 years,Black or African American,Assault,269,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,15-24 years,White,Assault,186,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,15-24 years,More than one race,Assault,15,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,15-24 years,American Indian or Alaska Native,Assault,31,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,15-24 years,Asian,Assault,24,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,15-24 years,Black or African American,Assault,2460,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,15-24 years,Native Hawaiian or Other Pacific Islander,Assault,11,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,15-24 years,White,Assault,916,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,15-24 years,More than one race,Assault,64,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,25-34 years,Asian,Assault,10,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,25-34 years,Black or African American,Assault,238,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,25-34 years,White,Assault,225,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,25-34 years,More than one race,Assault,10,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,25-34 years,American Indian or Alaska Native,Assault,33,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,25-34 years,Asian,Assault,33,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,25-34 years,Black or African American,Assault,2550,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,25-34 years,White,Assault,963,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,25-34 years,More than one race,Assault,42,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,35-44 years,Black or African American,Assault,155,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,35-44 years,White,Assault,201,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,35-44 years,American Indian or Alaska Native,Assault,21,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,35-44 years,Asian,Assault,12,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,35-44 years,Black or African American,Assault,1204,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,35-44 years,White,Assault,726,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,35-44 years,More than one race,Assault,23,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,45-54 years,Black or African American,Assault,74,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,45-54 years,White,Assault,143,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,45-54 years,Asian,Assault,23,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,45-54 years,Black or African American,Assault,481,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,45-54 years,White,Assault,396,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,45-54 years,More than one race,Assault,13,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,55-64 years,Black or African American,Assault,39,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,55-64 years,White,Assault,111,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,55-64 years,Asian,Assault,15,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,55-64 years,Black or African American,Assault,270,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,55-64 years,White,Assault,264,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,65-74 years,Black or African American,Assault,12,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,65-74 years,White,Assault,75,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,65-74 years,Black or African American,Assault,70,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,65-74 years,White,Assault,90,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,75-84 years,White,Assault,28,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,75-84 years,Black or African American,Assault,13,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,75-84 years,White,Assault,33,unspecified,Assault by other and unspecified firearm discharge
+2019,Female,85+ years,White,Assault,19,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,1-4 years,Black or African American,Assault,15,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,1-4 years,Black or African American,Assault,26,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,1-4 years,White,Assault,18,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,5-14 years,Black or African American,Assault,46,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,5-14 years,White,Assault,25,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,5-14 years,Black or African American,Assault,121,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,5-14 years,White,Assault,66,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,15-24 years,Black or African American,Assault,379,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,15-24 years,White,Assault,255,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,15-24 years,More than one race,Assault,21,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,15-24 years,American Indian or Alaska Native,Assault,32,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,15-24 years,Asian,Assault,34,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,15-24 years,Black or African American,Assault,3465,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,15-24 years,White,Assault,1262,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,15-24 years,More than one race,Assault,73,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,25-34 years,Black or African American,Assault,380,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,25-34 years,White,Assault,297,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,25-34 years,More than one race,Assault,14,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,25-34 years,American Indian or Alaska Native,Assault,45,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,25-34 years,Asian,Assault,36,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,25-34 years,Black or African American,Assault,3578,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,25-34 years,Native Hawaiian or Other Pacific Islander,Assault,15,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,25-34 years,White,Assault,1264,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,25-34 years,More than one race,Assault,72,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,35-44 years,Black or African American,Assault,228,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,35-44 years,White,Assault,233,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,35-44 years,American Indian or Alaska Native,Assault,29,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,35-44 years,Asian,Assault,28,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,35-44 years,Black or African American,Assault,1668,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,35-44 years,White,Assault,961,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,35-44 years,More than one race,Assault,22,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,45-54 years,Asian,Assault,10,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,45-54 years,Black or African American,Assault,108,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,45-54 years,White,Assault,162,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,45-54 years,American Indian or Alaska Native,Assault,14,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,45-54 years,Asian,Assault,16,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,45-54 years,Black or African American,Assault,728,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,45-54 years,White,Assault,551,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,55-64 years,Black or African American,Assault,64,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,55-64 years,White,Assault,122,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,55-64 years,Asian,Assault,12,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,55-64 years,Black or African American,Assault,342,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,55-64 years,White,Assault,310,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,65-74 years,Black or African American,Assault,30,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,65-74 years,White,Assault,65,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,65-74 years,Black or African American,Assault,85,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,65-74 years,White,Assault,110,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,75-84 years,White,Assault,58,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,75-84 years,Black or African American,Assault,20,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,75-84 years,White,Assault,41,unspecified,Assault by other and unspecified firearm discharge
+2020,Female,85+ years,White,Assault,17,unspecified,Assault by other and unspecified firearm discharge
+2020,Male,85+ years,White,Assault,10,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,1-4 years,Black or African American,Assault,15,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,1-4 years,Black or African American,Assault,23,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,1-4 years,White,Assault,12,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,5-14 years,Black or African American,Assault,67,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,5-14 years,White,Assault,28,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,5-14 years,Black or African American,Assault,138,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,5-14 years,White,Assault,75,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,15-24 years,Asian,Assault,12,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,15-24 years,Black or African American,Assault,464,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,15-24 years,White,Assault,230,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,15-24 years,More than one race,Assault,24,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,15-24 years,American Indian or Alaska Native,Assault,30,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,15-24 years,Asian,Assault,38,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,15-24 years,Black or African American,Assault,3600,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,15-24 years,Native Hawaiian or Other Pacific Islander,Assault,12,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,15-24 years,White,Assault,1294,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,15-24 years,More than one race,Assault,96,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,25-34 years,American Indian or Alaska Native,Assault,10,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,25-34 years,Black or African American,Assault,493,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,25-34 years,White,Assault,350,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,25-34 years,More than one race,Assault,15,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,25-34 years,American Indian or Alaska Native,Assault,53,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,25-34 years,Asian,Assault,31,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,25-34 years,Black or African American,Assault,3705,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,25-34 years,Native Hawaiian or Other Pacific Islander,Assault,15,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,25-34 years,White,Assault,1487,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,25-34 years,More than one race,Assault,66,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,35-44 years,American Indian or Alaska Native,Assault,10,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,35-44 years,Black or African American,Assault,264,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,35-44 years,White,Assault,258,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,35-44 years,More than one race,Assault,11,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,35-44 years,American Indian or Alaska Native,Assault,43,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,35-44 years,Asian,Assault,30,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,35-44 years,Black or African American,Assault,1886,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,35-44 years,White,Assault,1054,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,35-44 years,More than one race,Assault,25,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,45-54 years,Asian,Assault,11,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,45-54 years,Black or African American,Assault,127,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,45-54 years,White,Assault,213,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,45-54 years,American Indian or Alaska Native,Assault,13,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,45-54 years,Asian,Assault,18,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,45-54 years,Black or African American,Assault,800,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,45-54 years,White,Assault,630,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,45-54 years,More than one race,Assault,19,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,55-64 years,Black or African American,Assault,79,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,55-64 years,White,Assault,121,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,55-64 years,Asian,Assault,16,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,55-64 years,Black or African American,Assault,407,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,55-64 years,White,Assault,339,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,65-74 years,Black or African American,Assault,28,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,65-74 years,White,Assault,73,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,65-74 years,Black or African American,Assault,101,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,65-74 years,White,Assault,137,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,75-84 years,White,Assault,34,unspecified,Assault by other and unspecified firearm discharge
+2021,Male,75-84 years,White,Assault,41,unspecified,Assault by other and unspecified firearm discharge
+2021,Female,85+ years,White,Assault,24,unspecified,Assault by other and unspecified firearm discharge
+2019,Male,15-24 years,White,undetermined,10,Handgun,"Handgun discharge, undetermined intent"
+2020,Male,15-24 years,White,undetermined,12,Handgun,"Handgun discharge, undetermined intent"
+2018,Male,15-24 years,Black or African American,undetermined,16,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2018,Male,15-24 years,White,undetermined,44,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2018,Female,25-34 years,White,undetermined,13,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2018,Male,25-34 years,Black or African American,undetermined,13,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2018,Male,25-34 years,White,undetermined,32,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2018,Male,35-44 years,White,undetermined,17,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2018,Male,45-54 years,White,undetermined,23,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2018,Male,55-64 years,White,undetermined,13,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2018,Male,65-74 years,White,undetermined,16,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2018,Male,75-84 years,White,undetermined,10,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2019,Male,15-24 years,Black or African American,undetermined,24,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2019,Male,15-24 years,White,undetermined,36,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2019,Female,25-34 years,White,undetermined,20,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2019,Male,25-34 years,White,undetermined,29,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2019,Male,35-44 years,White,undetermined,24,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2019,Female,45-54 years,White,undetermined,11,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2019,Male,45-54 years,White,undetermined,19,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2019,Female,55-64 years,White,undetermined,10,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2019,Male,55-64 years,White,undetermined,20,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2019,Male,65-74 years,White,undetermined,16,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2020,Male,5-14 years,White,undetermined,10,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2020,Male,15-24 years,Black or African American,undetermined,19,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2020,Male,15-24 years,White,undetermined,47,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2020,Female,25-34 years,White,undetermined,11,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2020,Male,25-34 years,Black or African American,undetermined,19,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2020,Male,25-34 years,White,undetermined,31,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2020,Male,35-44 years,Black or African American,undetermined,12,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2020,Male,35-44 years,White,undetermined,26,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2020,Female,45-54 years,White,undetermined,17,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2020,Male,45-54 years,White,undetermined,13,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2020,Male,55-64 years,White,undetermined,17,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2020,Male,65-74 years,White,undetermined,14,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2021,Female,15-24 years,White,undetermined,16,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2021,Male,15-24 years,Black or African American,undetermined,36,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2021,Male,15-24 years,White,undetermined,44,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2021,Female,25-34 years,White,undetermined,12,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2021,Male,25-34 years,Black or African American,undetermined,21,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2021,Male,25-34 years,White,undetermined,37,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2021,Female,35-44 years,White,undetermined,10,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2021,Male,35-44 years,White,undetermined,30,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2021,Female,45-54 years,White,undetermined,12,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2021,Male,45-54 years,White,undetermined,19,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2021,Male,55-64 years,White,undetermined,14,unspecified,"Other and unspecified firearm discharge, undetermined intent"
+2021,Male,65-74 years,White,undetermined,10,unspecified,"Other and unspecified firearm discharge, undetermined intent"
