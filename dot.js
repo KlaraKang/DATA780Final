@@ -61,8 +61,8 @@ function init() {
           .domain(d3.extent(state.data, d=>d.Deaths))
           .range([height-margin.bottom, margin.top])
 
-    colorScale = d3.scaleOrdinal()
-            .range(["#58FAF4","red","orange","gray"])
+    colorScale = d3.scaleOrdinal().domain(["Assault","Suicide"])
+            .range(["red","#58FAF4"])
 
     // AXES
     const xAxis = d3.axisBottom(xScale).ticks(20).tickFormat(d=>d3.format(".1f")(d))
@@ -97,12 +97,10 @@ function init() {
       .attr("class", "tooltip")
       .style("visibility", "hidden")
 
-    legend = svg.append("g")
-      .attr("class", "legend")
-      .attr("width", 100)
-      .attr("height", 50)
-      .attr("transform",`translate(${width-200},${margin.top})`)
-      .attr("background-color","white")
+    legend = d3.select("#container").append("svg")
+      .attr("width", width*0.2)
+      .attr("height", height*0.8)
+      .attr("transform", `translate(${0},${margin.top-margin.bottom})`)
 
     // CALL AXES to draw Axis lines
     const xAxisGroup = svg.append("g")
@@ -176,7 +174,7 @@ function draw() {
       enter => enter
       .transition()
       .delay((d,i) => i*3)
-      .duration(3000)
+      .duration(1000)
       .attr("r", radius*1.5)
       .attr("cy", d => yScale(d.Deaths))
       .attr("fill", d => colorScale(d.Intent))
@@ -195,25 +193,27 @@ function draw() {
       .attr("cy", height)
       .remove("dot")
     ) 
-    
+    const legendNames = ["Assault","Suicide"]
     //legend
-    legend.selectAll("svg")
-          .data(["Assault","Suicide"])
-          .enter()
-          .append("g")
-          .append("circle")          
-          .attr("class","legend")
+    
+    legend.selectAll(".legend")
+          .data(legendNames) 
+          .enter()         
+          .append("circle") 
             .attr("r", 7)
             .attr("cx", 25)
             .attr("cy",(d,i)=>100+i*25)
             .style("stroke","none")
-            .style("fill",d=>colorScale(d));
+            .style("fill",colorScale);
 
-    legend.selectAll("g").append("text")
-              .text(d=>d)
+    legend.selectAll(".label")
+          .data(legendNames)
+          .enter()
+          .append("text")              
               .attr("x",40)
               .attr("y", (d,i)=>107+i*25)
-              .style("fill", d=>colorScale(d))
+              .text(d=>d)
+              .style("fill", colorScale)
               .style("font-size","11px")
               .attr("text-anchor","left")              
               .style("alignment-baseline", "middle")
